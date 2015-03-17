@@ -6,6 +6,7 @@ algoritmo "semnome"
 var
 nome: caractere
 numero:real
+idade: logico
 inicio
 // Seção de Comandos 
 fimalgoritmo
