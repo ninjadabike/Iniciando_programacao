@@ -5,7 +5,7 @@ algoritmo "semnome"
 // Seção de Declarações
 var
 nome: caractere
-vezes,contador: inteiro
+vezes,contador,numero: inteiro
 inicio
 escreva("Escreva seu nome: ")
 leia (nome)
@@ -14,7 +14,7 @@ leia (vezes)
 
 para contador de 0 ate vezes faca
 
-   escreval(nome)
+   escreval(contador,"º: ",nome)
 
 fimpara
 fimalgoritmo
