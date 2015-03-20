@@ -1,2 +1,3 @@
 ﻿# Iniciando_programacao
-Scripts em Portugol feitos no software Visual G.(somente para aprendizado.)
+Repositorio destinado a aprendizado com scripts e arquivos feitos para quem deseja aprender algo.
+(Scripts estão em Visual G)
